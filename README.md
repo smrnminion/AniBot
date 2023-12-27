@@ -1,4 +1,4 @@
-# misis-7-sem-ai-lab
+# AniBot
 
 ### Setup
 ```bash
