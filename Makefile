@@ -8,7 +8,7 @@ install:
 	poetry update
 
 	python3 -m venv .venv_jup
-	$(PYTHON_JUP) -m pip install -r src/jup-requirements.txt
+	$(PYTHON_JUP) -m pip install -r src/requirements.txt
 
 jup:
 	$(PYTHON_JUP) -m jupyterlab
